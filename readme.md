@@ -11,3 +11,4 @@ A walking or biking application that weighs high crime areas lower to keep the u
 6. Create better UI
 7. Implement searching an address -> node -> route? --- Maybe ---
 8. Expand to nearby areas, as long as data is present.
+9. Research what other map applications use? Osm? Google? Hodge Podge?
