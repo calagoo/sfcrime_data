@@ -3,7 +3,7 @@ import folium
 import folium.plugins
 
 # Specify the file path
-file_path = "D:\python\sfcrime_data\Police_Department_Incident_Reports__2018_to_Present_20240223.csv"
+file_path = "D:\python\CSVs\Police_Department_Incident_Reports__2018_to_Present_20240223.csv"
 
 # Read the CSV file into a pandas DataFrame
 df = pd.read_csv(file_path)
